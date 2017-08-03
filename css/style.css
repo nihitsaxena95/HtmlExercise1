@@ -1,21 +1,16 @@
 body {
-		background-color: #d3d3d3;
+		background-color: #e2dcda;
 		font-family: sans-serif;
 
 	}
 	.first {
-		width: 100%;
-		height: 40px;
-		margin: 10px;
-		padding: 10px;
+		height: auto;
 		border: 2px solid white;
 	}
 	.gap {
 		margin: auto;
 		width: 500px;
-
 	}
 	.gaptext {
 		text-align: center;
-		margin: 10px;
 	}
